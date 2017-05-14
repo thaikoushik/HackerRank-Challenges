@@ -1,0 +1,10 @@
+        int j;
+        double val;
+        String values;
+        j= scan.nextInt();
+        val = scan.nextDouble();
+        scan.nextLine();
+        values = scan.nextLine();
+        System.out.println(i+j);
+        System.out.println(d+val);
+        System.out.println(s+values);
